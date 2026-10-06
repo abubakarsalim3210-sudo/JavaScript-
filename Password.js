@@ -12,7 +12,7 @@ for ( i = 1; i <= 5; i++) {
       alert("Phone is locked! Try again in 60 minutes");
       console.log("Phone is locked! Try again in 60 minutes");
     } else {
-      alert(`Wrong! ${5-i} tries left`);
+    
     }
   }
 }
